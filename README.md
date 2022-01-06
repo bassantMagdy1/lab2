@@ -9,3 +9,4 @@ git tag --list
 git tag -d V1.7
 #delete tag remotely
 git push origin --delete V1.7
+# commands snapshot
